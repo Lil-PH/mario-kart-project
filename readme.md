@@ -130,7 +130,7 @@
 
 <label for="vitoria-item">Ao final, vence quem acumulou mais pontos</label>
 
-<br>
+---
 
 <h3>⚙️ Novas funcionalidades:</h3>
 
@@ -165,6 +165,9 @@
 
 📌 Repositório oficial do Treinamento **NODE.JS**: [Simulador Mario Kart](https://github.com/Lil-PH/nodejs-formation/tree/main/03-mario-kart-project)
 
+---
+<br>
+
 <div align="center">
 
   <p>
@@ -183,7 +186,7 @@
 
   <p>
     <a href="https://github.com/Lil-PH"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-    <a href="https://www.linkedin.com/in/pedro-henrique-83a681233/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="https://www.linkedin.com/in/pedro-henrique-silva-arnaut-7a9971245/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   </p>
   
 </div>
